@@ -22,4 +22,5 @@ to deploy pre-trained architecture. Labelling data was created using 'LabelMe' s
 
 # Access to the Dataset
 Access to the dataset can be reqeusted through the following link: https://www.dropbox.com/sh/j7jizm564c6gu0n/AADGwuorqenNrutWrZNgyfy_a?dl=0 
+
 The request will be reviewed by the dataset owner on a case-by-case basis.
