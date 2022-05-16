@@ -20,3 +20,6 @@ The image classification model will classify the segmented images from the U-Net
 Existing solutions for a model that identifies two points in an image were limited. The python library Fast.Ai was identified as a solution to this problem due to its use of a function to map coordinates to images for training data and the capability
 to deploy pre-trained architecture. Labelling data was created using 'LabelMe' software and the JSON formatted labels were extracted for training.
 
+# Access to the Dataset
+Access to the dataset can be reqeusted through the following link: https://www.dropbox.com/sh/j7jizm564c6gu0n/AADGwuorqenNrutWrZNgyfy_a?dl=0 
+The request will be reviewed by the dataset owner on a case-by-case basis.
